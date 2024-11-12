@@ -1,0 +1,1 @@
+- Do yoga every day

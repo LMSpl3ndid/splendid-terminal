@@ -1,0 +1,1 @@
+场景：dockx程序的api模式可以使用URL schemes显示内容[dockx://show?text=xxx&seconds=3](https://help.locklauncher.com/dockx/en)

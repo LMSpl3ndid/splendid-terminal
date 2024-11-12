@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"8b9dff7d3fb96c69","type":"text","text":"","x":-320,"y":1240,"width":250,"height":60},
+		{"id":"1e6e3345a6be4649","type":"text","text":"音乐","x":20,"y":160,"width":250,"height":60,"color":"4"},
+		{"id":"5831b4c5e8def416","type":"text","text":"文艺批评","x":145,"y":-600,"width":135,"height":60,"color":"4"},
+		{"id":"bd809a2580ae20a1","type":"text","text":"哲学","x":-545,"y":-660,"width":125,"height":60},
+		{"id":"d8523cc91a6b23db","type":"text","text":"心理学","x":-545,"y":-540,"width":125,"height":60},
+		{"id":"a94c380e5b68aae8","type":"text","text":"精神分析","x":-200,"y":-600,"width":140,"height":60,"color":"4"},
+		{"id":"9d2787bc68e3ed9f","type":"text","text":"编剧法","x":280,"y":-480,"width":120,"height":50},
+		{"id":"20aa5c556a4a1e2f","x":400,"y":-360,"width":140,"height":60,"type":"text","text":"镜头语言"},
+		{"id":"0db8db4f056eb2fa","type":"text","text":"摄影","x":470,"y":-200,"width":110,"height":50}
+	],
+	"edges":[
+		{"id":"45408c4172d2feeb","fromNode":"d8523cc91a6b23db","fromSide":"right","toNode":"a94c380e5b68aae8","toSide":"left"},
+		{"id":"3ee65801dd33d876","fromNode":"bd809a2580ae20a1","fromSide":"right","toNode":"a94c380e5b68aae8","toSide":"left"},
+		{"id":"4f4600e230cfe31b","fromNode":"a94c380e5b68aae8","fromSide":"right","toNode":"5831b4c5e8def416","toSide":"left"}
+	]
+}
