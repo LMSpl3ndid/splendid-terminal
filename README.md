@@ -1,3 +1,3 @@
 # splendid-terminal
 It's used to learn.
-Coooooome and Plaaaay!
+Cooooome and Plaaaay!
