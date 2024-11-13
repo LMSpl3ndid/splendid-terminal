@@ -76,6 +76,34 @@
             }
           },
           {
+            "id": "2770b5231cd4542d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记整理/学习笔记/课外/Apple Mac/mac使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mac使用"
+            }
+          },
+          {
+            "id": "6e240a2629577e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记整理/学习笔记/计算机知识/git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git"
+            }
+          },
+          {
             "id": "49cdde5469b2a7d4",
             "type": "leaf",
             "state": {
@@ -100,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,13 +285,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4fb43484d3ad046b",
+  "active": "6e240a2629577e69",
   "lastOpenFiles": [
+    "笔记整理/学习笔记/课外/Apple Mac/mac使用.md",
+    "笔记整理/学习笔记/计算机知识/git.md",
     "MarkDown超级教程 Obsidian版 2022.1.12.md",
     "2024-09-08.md",
     "linux安全.md",
     "笔记整理/学习笔记/课外/音乐学习/音乐学习.md",
-    "笔记整理/学习笔记/课外/Apple Mac/mac使用.md",
     "笔记整理/前面的区域还没有探索哦.md",
     "2024-09-08.md",
     "笔记整理/学习笔记/课外/Apple Mac/URL Schemes.md",
@@ -281,7 +310,7 @@
     "笔记整理/学习笔记/专业课/六级技巧.md",
     "笔记整理/学习笔记/求职/算法.md",
     "笔记整理/学习笔记/求职/软件测试.md",
-    "笔记整理/Hack&Security/计算机知识/java基础.md",
+    "笔记整理/学习笔记/计算机知识/java基础.md",
     "笔记整理/学习笔记/专业课/计算机安全.md",
     "知识库/爱好/运动/羽毛球.md",
     "知识库/爱好/运动",
@@ -295,9 +324,7 @@
     "笔记整理/Hack&Security/vulnerability/web漏洞.md",
     "2024-07-07.md",
     "笔记整理/Hack&Security/web安全.md",
-    "笔记整理/Hack&Security/vulnerability/漏洞.md",
-    "笔记整理/Hack&Security/计算机知识",
-    "笔记整理/Hack&Security/CTF笔记/知识.md",
+    "笔记整理/学习笔记/计算机知识",
     "笔记整理/学习笔记/考研",
     "知识库/爱好/游戏",
     "知识库/爱好/摄影",
