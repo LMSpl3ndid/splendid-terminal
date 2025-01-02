@@ -6,5 +6,11 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "vimMode": false
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00Index",
+  "attachmentFolderPath": "09📎",
+  "strictLineBreaks": true,
+  "showLineNumber": true
 }

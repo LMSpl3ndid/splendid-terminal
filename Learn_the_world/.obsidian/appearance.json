@@ -4,5 +4,6 @@
     "侧边栏"
   ],
   "baseFontSizeAction": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "cssTheme": "Blue Topaz"
 }

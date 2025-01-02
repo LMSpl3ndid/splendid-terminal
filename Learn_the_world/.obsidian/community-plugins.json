@@ -1,4 +1,8 @@
 [
   "obsidian-importer",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "dataview",
+  "calendar",
+  "heatmap-calendar",
+  "obsidian-markmind"
 ]

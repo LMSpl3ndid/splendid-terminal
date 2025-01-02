@@ -5,7 +5,7 @@ Categorize entries with tags and automatically capture the date.
 
 |Name|Created|Tags|
 |---|---|---|
-|[[Untitled]]|July 17, 2023 12:08 PM||
+|[[03 日记/Notion/Untitled]]|July 17, 2023 12:08 PM||
 |[[崩坏三]]|July 7, 2023 9:47 PM||
 |[[Untitled 2]]|July 6, 2023 3:09 PM||
 |[[MC！]]|July 5, 2023 2:21 PM|Daily|
